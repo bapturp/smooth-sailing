@@ -20,6 +20,14 @@ Cordage servant à régler l'angle d'une voile par rapport à l'axe longitudinal
 
 Cordage servant à hisser ou affaler une voile.
 
+#### Bosse
+
+Cordage affecté à une autre fonction qu'une [drisse](#drisse) ou [écoute](#écoute), par example: [bosse de ris](#bosse-de-ris).
+
+#### Bosse de Ris
+
+Cordage permettant réduire la surface de la voilure.
+
 #### Hisser
 
 Action consistant à monter une voile.
@@ -48,10 +56,6 @@ Dispositif permettant de maintenir vers le bas un [espar](#espar).
 
 Élément de [gréement](#gréement) long et rigide, ayant un rôle technique à jouer dans la propulsion à voile et les manoeuvres: bôme, mât, vergue.
 
-#### Bosse de ris
-
-Cordage présent sur la chute d'une voile et permettant la prise de ris.
-
 #### Prise de ris
 
 #### Taquet
@@ -69,6 +73,8 @@ Bord de la voile entre le point d'écoute et le point d'amure.
 Bord de la voile entre le point d'amure et le point de drisse. S'agissant du côté de la voile qui reçoit en premier le vent, on parle aussi de bord d'attaque.
 
 #### Amure
+
+Désigne le côté par où le bateau reçoit le vent.
 
 #### Winch
 
@@ -129,7 +135,7 @@ Ensemble des voiles, mat, bôme. Il est le moteur du voilier, convertissant l'é
 
 #### Penon
 
-Brin de laine placé dans un hauban ou sur une voile. Dans un hauban il indique la direction du vent apparent. Sur une voile, il matérialise les filets d'air circulant autour du profil.
+Brin de laine placé dans un hauban ou sur une voîle. Dans un hauban il indique la direction du vent apparent. Sur une voile, il matérialise les filets d'air circulant autour du profil.
 
 #### Faveurs
 
@@ -145,7 +151,7 @@ Coin bas sous le vent d'une voile, sur lequel on vient [frapper](#frapper) une [
 
 Coin haut d'une voile, sur lequel on vient [frapper](#frapper) une [drisse](#drisse).
 
-#### Guidant
+#### Guindant
 
 Partie verticale au vent d'une voile, aussi appelé bord d'attaque.
 
