@@ -46,11 +46,11 @@ Cordage soutenant un espar (e.g. bôme).
 
 #### Hale-haut
 
-Voir [Balancine](#balancine).
+Dispositif permettant de maintenir un [espar](#espar) vers le haut.
 
 #### Hale-bas
 
-Dispositif permettant de maintenir vers le bas un [espar](#espar).
+Dispositif permettant de maintenir un [espar](#espar) vers le bas.
 
 #### Espar
 
