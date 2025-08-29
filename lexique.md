@@ -74,15 +74,11 @@ Bord de la voile entre le point d'amure et le point de drisse. S'agissant du cô
 
 #### Amure
 
-Désigne le côté par où le bateau reçoit le vent.
+Désigne le côté par lequel le bateau reçoit le vent.
 
 #### Winch
 
 #### Self-Tailing
-
-#### Loffer
-
-#### Abattre
 
 #### Souquer
 
@@ -135,9 +131,12 @@ Ensemble des voiles, mat, bôme. Il est le moteur du voilier, convertissant l'é
 
 #### Penon
 
+Ruban de tissu fixé sur la chute d'une voile qui matérialise la difference de pression de l'air en sortie de voile.
 Brin de laine placé dans un hauban ou sur une voîle. Dans un hauban il indique la direction du vent apparent. Sur une voile, il matérialise les filets d'air circulant autour du profil.
 
-#### Faveurs
+#### Faveur
+
+Brin de laine fixé sur une voile qui matérialise les filets d'air circulant autour du profil.
 
 #### Point d'Amure
 
@@ -162,3 +161,83 @@ Partie verticale sous le vent d'une voile, aussi appelé bord de fuite.
 #### Bordure
 
 Partie basse d'une voile.
+
+#### Vent réel
+
+Vent perçu par un observateur immobile.
+
+#### Vent vitesse
+
+Vent généré par le déplacement du bateau.
+
+#### Vent apparent
+
+Somme du [vent vitesse](#vent-vitesse) et [vent réel](#vent-réel).
+
+#### Louvoyage
+
+Naviguuer tantôt à droite, tantôt à gauche de la route à suivre pour gagner un point d'un vent contraire ne permettant pas d'atteindre directement.
+
+#### Vent debout
+
+Quand le bateau fait face au vent.
+
+#### Embraquer
+
+Action de reprendre le mou sur un cordage, cette manoeuvre précède l'action de border.
+
+#### Lof
+
+Trajectoire du bateau qui se rapproche du vent.
+
+#### Lofer
+
+S'approcher du vent.
+
+#### Abattée
+
+Trajectoire du bateau qui s'eloigne du vent.
+
+#### Abattre
+
+S'éloigner du vent.
+
+#### Ardent
+
+Bateau qui a tendance à [lofer](#lofer).
+
+#### Mou
+
+Bateau qui a tendance à [abattre](#abattre).
+
+#### Virement de bord
+
+Manoeuvre d'un bateau permettant de changer d'[amure](#amure) en passant [vent debout](#vent-debout).
+
+#### Virement lof pour lof
+
+Voir [empannage](#empannage)
+
+#### Empannage
+
+Manoeuvre d'un bateau permettant de changer d'[amure](#amure) en passant vent arrière.
+
+#### Allure
+
+Angle de route du bateau par rapport à la direction du vent.
+
+#### Adonner
+
+Vent qui change de direction et évolue favorablement par rapport au cap suivi. Contraire de [refuser](#refuser).
+
+#### Refuser
+
+Vent qui change de direction et évolue défavorablement obligeant le bateau à changer de cap pour rester sur la même allure. Contraire de [adonner](#adonner)
+
+#### Molir
+
+Vent dont la force diminue.
+
+#### Forcir
+
+Vent dont la force augemente.
